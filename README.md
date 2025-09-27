@@ -46,3 +46,22 @@
 ### ОТВЕТ
 
 `Поднимаем два докер контейнера master и replica`
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.0.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.1.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.6.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.2.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.5.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.3.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.4.png)
+
+`На master`
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.2.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.9.png)
+
+`На replica`
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.5.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.14.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.10.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.11.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.13.png)
+![png](https://github.com/vajnichev/12-06-hw/blob/main/IMG/12.6.12.png)
